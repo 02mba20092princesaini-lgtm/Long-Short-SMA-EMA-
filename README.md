@@ -43,7 +43,7 @@ pip install pandas yfinance numpy matplotlib
 python sma_long_short.py
 ```
 
-**5-EMA Long-Short (TCS):**
+**5-EMA Long-Short (RELIANCE.NS):**
 ```bash
 python ema_long_short.py
 ```
